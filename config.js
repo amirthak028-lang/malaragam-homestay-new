@@ -8,7 +8,7 @@ window.MALARAGAM_CONFIG = {
   ONLINE_BOOKING: false,
 
   SUPABASE_URL: "https://kpbwndpgodcqcgudmike.supabase.co",
-  SUPABASE_ANON_KEY: "sb_publishable_kMVys08iC32o8Td1eLAegw_6WKJWKIa",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtwYnduZHBnb2RjcWNndWRtaWtlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ0OTk3MDQsImV4cCI6MjExMDA3NTcwNH0.RvPzNgJk5lml4zifKzn24Xogu_5PBM_B-zpqZcN6taM",
 
   // Shows a "Test mode" banner above the booking form. Set to false when Razorpay goes live.
   RAZORPAY_TEST_MODE: true,
