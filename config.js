@@ -7,7 +7,7 @@ window.MALARAGAM_CONFIG = {
   // While false, the booking form works as a WhatsApp enquiry and nothing is charged.
   ONLINE_BOOKING: false,
 
-  SUPABASE_URL: "https://kpbwndpgodcqcgudmike.supabase.co/rest/v1/",
+  SUPABASE_URL: "https://kpbwndpgodcqcgudmike.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_kMVys08iC32o8Td1eLAegw_6WKJWKIa",
 
   // Shows a "Test mode" banner above the booking form. Set to false when Razorpay goes live.
